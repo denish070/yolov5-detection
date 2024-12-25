@@ -1,8 +1,8 @@
 
-Monkey Detection - v2 2024-11-23 9:26pm
+Monkey Detection - v3 2024-12-23 7:56pm
 ==============================
 
-This dataset was exported via roboflow.com on November 23, 2024 at 1:27 PM GMT
+This dataset was exported via roboflow.com on December 23, 2024 at 12:02 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 579 images.
+The dataset includes 11500 images.
 Monkey are annotated in YOLO v5 PyTorch format.
 
 The following pre-processing was applied to each image:
